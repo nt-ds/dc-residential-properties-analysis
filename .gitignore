@@ -101,6 +101,7 @@ venv.bak/
 /site
 
 # raw data (due to size)
+data/raw/
 DC_Properties.csv
 
 # mypy
