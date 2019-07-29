@@ -100,5 +100,8 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# raw data (due to size)
+DC_Properties.csv
+
 # mypy
 .mypy_cache/
