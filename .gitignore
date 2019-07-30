@@ -103,7 +103,6 @@ venv.bak/
 # raw data (due to size)
 data/raw/
 DC_Properties.csv
-Processed_DC_Properties.csv
 
 # mypy
 .mypy_cache/
