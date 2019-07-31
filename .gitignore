@@ -104,5 +104,8 @@ venv.bak/
 data/raw/
 DC_Properties.csv
 
+SaleDateHouses.pkl
+NoSaleDateHouses.pkl
+
 # mypy
 .mypy_cache/
