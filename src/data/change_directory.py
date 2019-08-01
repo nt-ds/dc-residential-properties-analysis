@@ -20,6 +20,11 @@ class ChangeDirectory:
         data_path = str(parent_path) + "/data"
         os.chdir(data_path)
         
+    def change_to_model_dir(self):
+        parent_path = Path(self.MAIN_DIR).parent
+        data_path = str(parent_path) + "/models"
+        os.chdir(data_path)
+        
     def change_to_notebook_dir(self):
         os.chdir(self.MAIN_DIR)
 
