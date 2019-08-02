@@ -106,6 +106,8 @@ DC_Properties.csv
 
 SaleDateHouses.pkl
 NoSaleDateHouses.pkl
+HousesDummy.pickle
+HousesQuantitative.pickle
 
 # mypy
 .mypy_cache/
