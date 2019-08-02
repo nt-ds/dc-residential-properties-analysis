@@ -110,6 +110,7 @@ HousesDummy.pickle
 HousesQuantitative.pickle
 NoSaleDateHouses.pickle
 SaleDateHouses.pickle
+time_series.pickle
 
 # mypy
 .mypy_cache/
